@@ -8,6 +8,14 @@ body {
     align-items: center;
     flex-direction: column;
     height: 100vh;
+    background: rgb(255,82,82);
+    background: linear-gradient(90deg, rgba(255,82,82,1) 0%, rgba(255,242,117,1) 51%, rgba(0,198,255,1) 84%);
+}
+
+#title {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 0;
 }
 
 #gameboard {
